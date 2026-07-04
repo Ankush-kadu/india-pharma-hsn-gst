@@ -1,0 +1,429 @@
+[
+  {
+    "hsn": "2936",
+    "description": "Provitamins and vitamins, natural or reproduced by synthesis, incl. concentrates and intermixtures",
+    "gst_percent": 5,
+    "category": "vitamins",
+    "notes": "5% per the 56th GST Council rate rationalisation (Sep 2025); previously 12%/18% depending on entry."
+  },
+  {
+    "hsn": "293621",
+    "description": "Vitamin A and its derivatives, unmixed",
+    "gst_percent": 5,
+    "category": "vitamins",
+    "notes": ""
+  },
+  {
+    "hsn": "293626",
+    "description": "Vitamin B12 and its derivatives, unmixed",
+    "gst_percent": 5,
+    "category": "vitamins",
+    "notes": ""
+  },
+  {
+    "hsn": "293627",
+    "description": "Vitamin C (ascorbic acid) and its derivatives, unmixed",
+    "gst_percent": 5,
+    "category": "vitamins",
+    "notes": ""
+  },
+  {
+    "hsn": "2937",
+    "description": "Hormones, prostaglandins, thromboxanes and leukotrienes, natural or synthesised; derivatives used primarily as hormones",
+    "gst_percent": 5,
+    "category": "hormones",
+    "notes": "Includes steroid hormones and insulin as bulk drug substances."
+  },
+  {
+    "hsn": "293712",
+    "description": "Insulin and its salts (bulk)",
+    "gst_percent": 5,
+    "category": "hormones",
+    "notes": "Formulated insulin for retail sale falls under 300431."
+  },
+  {
+    "hsn": "2941",
+    "description": "Antibiotics (bulk drug substances)",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": "Formulated antibiotic medicaments fall under 300410/300420."
+  },
+  {
+    "hsn": "294110",
+    "description": "Penicillins and their derivatives with a penicillanic acid structure; salts thereof",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "294120",
+    "description": "Streptomycins and their derivatives; salts thereof",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "294130",
+    "description": "Tetracyclines and their derivatives; salts thereof",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "294140",
+    "description": "Chloramphenicol and its derivatives; salts thereof",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "294150",
+    "description": "Erythromycin and its derivatives; salts thereof",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "294190",
+    "description": "Other antibiotics (cephalosporins, quinolones, macrolides, etc.)",
+    "gst_percent": 5,
+    "category": "antibiotics",
+    "notes": ""
+  },
+  {
+    "hsn": "3001",
+    "description": "Glands and other organs for organo-therapeutic uses; extracts thereof; heparin and its salts",
+    "gst_percent": 5,
+    "category": "biologicals",
+    "notes": ""
+  },
+  {
+    "hsn": "3002",
+    "description": "Human/animal blood; antisera, other blood fractions and immunological products; vaccines, toxins, cultures of micro-organisms",
+    "gst_percent": 5,
+    "category": "biologicals",
+    "notes": "Human blood and its components are nil-rated; check the specific 6-digit entry."
+  },
+  {
+    "hsn": "300212",
+    "description": "Antisera and other blood fractions",
+    "gst_percent": 5,
+    "category": "biologicals",
+    "notes": ""
+  },
+  {
+    "hsn": "300215",
+    "description": "Immunological products, put up in measured doses or retail packs",
+    "gst_percent": 5,
+    "category": "biologicals",
+    "notes": "Includes monoclonal antibody products."
+  },
+  {
+    "hsn": "300241",
+    "description": "Vaccines for human medicine",
+    "gst_percent": 5,
+    "category": "biologicals",
+    "notes": "Certain notified life-saving vaccines/drugs may be nil-rated by specific notification; verify per product."
+  },
+  {
+    "hsn": "300290",
+    "description": "Other (incl. human blood, cultures of micro-organisms)",
+    "gst_percent": 0,
+    "category": "biologicals",
+    "notes": "Human blood and its components are exempt (nil). Other items under this residual entry may attract 5%; verify per product."
+  },
+  {
+    "hsn": "3003",
+    "description": "Medicaments of two or more constituents mixed together, NOT put up in measured doses or retail packs (bulk/loose)",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": "5% per the 56th GST Council decision (Sep 2025); previously 12%."
+  },
+  {
+    "hsn": "300390",
+    "description": "Other medicaments, not in measured doses or retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": ""
+  },
+  {
+    "hsn": "3004",
+    "description": "Medicaments put up in measured doses or in forms/packings for retail sale",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": "The core retail-pharmacy heading. 5% per the 56th GST Council decision (Sep 2025), effective 22 Sep 2025; previously 12%. Certain notified life-saving drugs are nil-rated by specific notification."
+  },
+  {
+    "hsn": "300410",
+    "description": "Medicaments containing penicillins/streptomycins or their derivatives, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": ""
+  },
+  {
+    "hsn": "300420",
+    "description": "Medicaments containing other antibiotics, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": ""
+  },
+  {
+    "hsn": "300431",
+    "description": "Medicaments containing insulin, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": ""
+  },
+  {
+    "hsn": "300432",
+    "description": "Medicaments containing corticosteroid hormones, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": ""
+  },
+  {
+    "hsn": "300450",
+    "description": "Medicaments containing vitamins or products of heading 2936, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": "Covers most vitamin/multivitamin formulations sold at the counter."
+  },
+  {
+    "hsn": "300490",
+    "description": "Other medicaments, put up in measured doses or retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": "Largest category for retail pharmacy items, incl. ORS and most allopathic formulations."
+  },
+  {
+    "hsn": "30049011",
+    "description": "Ayurvedic medicaments, retail packs",
+    "gst_percent": 5,
+    "category": "medicaments",
+    "notes": "Ayurvedic/Unani/Siddha/Homoeopathic medicaments follow the medicament rate."
+  },
+  {
+    "hsn": "3005",
+    "description": "Wadding, gauze, bandages and similar articles (dressings, adhesive plasters), impregnated/coated or in retail medical packs",
+    "gst_percent": 12,
+    "category": "dressings",
+    "notes": "Rate differs from medicaments; verify the current CBIC schedule entry before filing."
+  },
+  {
+    "hsn": "300510",
+    "description": "Adhesive dressings and other articles having an adhesive layer (plasters, adhesive tapes)",
+    "gst_percent": 12,
+    "category": "dressings",
+    "notes": ""
+  },
+  {
+    "hsn": "300590",
+    "description": "Other wadding, gauze, bandages (cotton wool, gauze rolls, crepe bandages)",
+    "gst_percent": 12,
+    "category": "dressings",
+    "notes": ""
+  },
+  {
+    "hsn": "3006",
+    "description": "Pharmaceutical goods specified in Note 4 to Chapter 30 (sutures, reagents, dental cements, first-aid kits, contraceptives)",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": "MIXED-RATE heading: contraceptives (300660) are nil-rated; other sub-headings differ. Prefer the 6-digit entries below."
+  },
+  {
+    "hsn": "300610",
+    "description": "Sterile surgical catgut, suture materials, sterile tissue adhesives, laminaria, absorbable haemostatics",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "300620",
+    "description": "Blood-grouping reagents",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "300630",
+    "description": "Opacifying preparations for X-ray; diagnostic reagents designed to be administered to the patient",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "300640",
+    "description": "Dental cements and other dental fillings; bone reconstruction cements",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "300650",
+    "description": "First-aid boxes and kits",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "300660",
+    "description": "Chemical contraceptive preparations based on hormones or spermicides",
+    "gst_percent": 0,
+    "category": "pharma-goods",
+    "notes": "Contraceptives are nil-rated (exempt) under the GST exemption schedule. Condoms (4014) are also nil-rated."
+  },
+  {
+    "hsn": "300670",
+    "description": "Gel preparations for use in medical/veterinary procedures (lubricant/coupling gels)",
+    "gst_percent": 12,
+    "category": "pharma-goods",
+    "notes": ""
+  },
+  {
+    "hsn": "3306",
+    "description": "Preparations for oral or dental hygiene (dentifrices, denture powders, mouthwash, dental floss)",
+    "gst_percent": 18,
+    "category": "oral-hygiene",
+    "notes": "Not a medicament: toothpaste/mouthwash attract the standard rate even when sold by a pharmacy. Tooth powder has historically had a lower entry; verify the current CBIC schedule."
+  },
+  {
+    "hsn": "330610",
+    "description": "Dentifrices (toothpaste, tooth powder)",
+    "gst_percent": 18,
+    "category": "oral-hygiene",
+    "notes": "Tooth powder has appeared in a concessional schedule entry in some periods; verify before filing."
+  },
+  {
+    "hsn": "330620",
+    "description": "Yarn used to clean between the teeth (dental floss)",
+    "gst_percent": 18,
+    "category": "oral-hygiene",
+    "notes": ""
+  },
+  {
+    "hsn": "330690",
+    "description": "Other oral/dental hygiene preparations (mouthwashes, oral rinses)",
+    "gst_percent": 18,
+    "category": "oral-hygiene",
+    "notes": ""
+  },
+  {
+    "hsn": "3401",
+    "description": "Soap; organic surface-active products and preparations for use as soap; skin-wash bars and liquids",
+    "gst_percent": 18,
+    "category": "toiletries",
+    "notes": "Common pharmacy counter item, not a medicament. Rate schedules for daily-use toiletries have been revised by Council decisions; verify the current entry."
+  },
+  {
+    "hsn": "340111",
+    "description": "Toilet soap (bars, cakes) for personal use",
+    "gst_percent": 18,
+    "category": "toiletries",
+    "notes": ""
+  },
+  {
+    "hsn": "3402",
+    "description": "Organic surface-active agents; washing and cleaning preparations (detergents, handwash refills)",
+    "gst_percent": 18,
+    "category": "toiletries",
+    "notes": ""
+  },
+  {
+    "hsn": "9018",
+    "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": "Broad device heading (syringes, needles, catheters, diagnostic instruments, thermometers under sub-entries)."
+  },
+  {
+    "hsn": "901831",
+    "description": "Syringes, with or without needles",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "901832",
+    "description": "Tubular metal needles and needles for sutures",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "901839",
+    "description": "Catheters, cannulae and the like",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "901850",
+    "description": "Ophthalmic instruments and appliances",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "901890",
+    "description": "Other instruments and appliances (BP monitors, stethoscopes, nebulisers under sub-entries)",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": "Some assistive/diagnostic items have concessional entries; verify per product."
+  },
+  {
+    "hsn": "9019",
+    "description": "Mechano-therapy appliances; massage apparatus; ozone/oxygen/aerosol therapy, artificial respiration apparatus",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": "Oxygen concentrators have had concessional rates during public-health notifications; verify the current entry."
+  },
+  {
+    "hsn": "9020",
+    "description": "Other breathing appliances and gas masks (excl. protective masks without mechanical parts)",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "9021",
+    "description": "Orthopaedic appliances; splints; artificial body parts; appliances worn/carried/implanted to compensate for a defect or disability",
+    "gst_percent": 5,
+    "category": "medical-devices",
+    "notes": "Concessional heading: orthopaedic appliances and artificial parts attract 5%; hearing aids (902140) are nil-rated."
+  },
+  {
+    "hsn": "902110",
+    "description": "Orthopaedic or fracture appliances (belts, braces, splints, crutch accessories)",
+    "gst_percent": 5,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "902140",
+    "description": "Hearing aids (excluding parts and accessories)",
+    "gst_percent": 0,
+    "category": "medical-devices",
+    "notes": "Hearing aids are exempt (nil-rated); parts/accessories attract GST."
+  },
+  {
+    "hsn": "902131",
+    "description": "Artificial joints",
+    "gst_percent": 5,
+    "category": "medical-devices",
+    "notes": ""
+  },
+  {
+    "hsn": "9022",
+    "description": "Apparatus based on the use of X-rays or of alpha, beta or gamma radiations (medical or otherwise)",
+    "gst_percent": 12,
+    "category": "medical-devices",
+    "notes": "12% for medical/surgical/dental/veterinary use; apparatus for other (industrial) uses attracts 18%. Split heading — classify by end use."
+  },
+  {
+    "hsn": "9402",
+    "description": "Medical, surgical, dental or veterinary furniture (operating tables, examination tables, hospital beds with mechanical fittings; dentists' chairs)",
+    "gst_percent": 18,
+    "category": "medical-furniture",
+    "notes": ""
+  }
+]
