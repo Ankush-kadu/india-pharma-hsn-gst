@@ -13,9 +13,10 @@ def test_load_returns_entries():
     assert isinstance(entries, list)
     assert len(entries) >= 40
     for entry in entries:
-        assert set(entry) == {"hsn", "description", "gst_percent", "category", "notes"}
+        assert set(entry) == {"hsn", "description", "gst_percent", "category", "notes", "source"}
         assert entry["hsn"].isdigit()
-        assert entry["gst_percent"] in (0, 5, 12, 18)
+        assert entry["gst_percent"] in (0, 5, 18, None)
+        assert entry["source"]  # every row is cited, even null (product-dependent) rows
 
 
 def test_by_hsn_exact_match():
@@ -44,9 +45,18 @@ def test_by_hsn_unknown_returns_none():
 
 def test_split_headings():
     assert lookup.by_hsn("300660")["gst_percent"] == 0  # contraceptives nil
-    assert lookup.by_hsn("300610")["gst_percent"] == 12  # sutures
+    assert lookup.by_hsn("300610")["gst_percent"] == 5  # sutures
     assert lookup.by_hsn("902140")["gst_percent"] == 0  # hearing aids nil
-    assert lookup.by_hsn("3306")["gst_percent"] == 18  # oral hygiene
+    assert lookup.by_hsn("3306")["gst_percent"] is None  # product-dependent, see notes
+
+
+def test_product_dependent_rows_are_null_not_guessed():
+    # A flat table cannot resolve these; gst_percent is null and the reason
+    # lives in notes, rather than picking one of the candidate rates.
+    for hsn in ("2936", "300290", "300620", "3306", "3401", "9022"):
+        entry = lookup.by_hsn(hsn)
+        assert entry["gst_percent"] is None
+        assert entry["notes"]
 
 
 def test_search_finds_vaccines():

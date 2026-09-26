@@ -8,6 +8,12 @@ relative to this file.
     lookup.search("vaccine")      # free-text search
     lookup.gst_breakup(1000, 5)   # intra-state CGST/SGST split
 
+`gst_percent` may be `null` (None in Python) for a heading whose rate
+depends on the specific product, not just the HSN code (e.g. Chapter 29
+bulk drug intermediates, or 3306/3401 where the notification splits by
+description). Read that row's `notes` for the candidate rates and the
+notification serial numbers before guessing a value.
+
 Reference aid only — verify rates against current CBIC notifications
 before using them for invoicing or GST return filing.
 """
